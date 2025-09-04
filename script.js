@@ -12,7 +12,7 @@ function toggleMode() {
 
     img.setAttribute(
       "alt",
-      "Foto de Maik Brito sorrindo, usando óculos escuros e blusa preta e fundo degradê roxo para azul."
+      "Foto de Thiago Alves sorrindo, blusa preta e fundo degradê roxo para azul."
     )
   } else {
     // se tiver sem light mode, manter imagem normal
@@ -20,7 +20,7 @@ function toggleMode() {
 
     img.setAttribute(
       "alt",
-      "Foto de Maik Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Foto de Thiago Alves sorrindo, camisa preta e fundo amarelo."
     )
   }
 }
